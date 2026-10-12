@@ -19,7 +19,7 @@ class Urgency(StrEnum):
 
 class EmailClassification(BaseModel):
     summary: str = Field(
-        description="The single category that best fits the main request"
+        description="One sentence describing what the customer wants"
     )
     category: EmailCategory = Field(
         description="The single category that best fits the main request"
