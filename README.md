@@ -1,6 +1,9 @@
-# AI Project Template
+# Support Reply Assistant
 
-A production-ready Python starting point for LLM and AI backends.
+Classify customer support emails and draft a reply with an LLM.
+
+Send a customer email and get back its category, urgency and a reply written for that category.
+
 
 ## Quick Start
 

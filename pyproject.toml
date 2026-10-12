@@ -1,7 +1,7 @@
 [project]
-name = "ai-project-template"
+name = "support-reply-assistant"
 version = "0.1.0"
-description = "Layered async FastAPI template for LLM applications"
+description = "Classify customer support emails and draft a reply with an LLM"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
